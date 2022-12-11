@@ -1,6 +1,7 @@
 # Dzmitry Panasevich
 
 ## Contact Info
+* Location: **Brest, Belarus**
 * Skype: **e002713**
 * Telegram: **@DmitryAleseevich**
 * Discord: **@dimapanasevich**
