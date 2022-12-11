@@ -14,6 +14,11 @@ I want to consolidate my knowledge in **java-script** and in **programming** in 
 ## Skills
 **HTML, CSS, JS, NodeJS, ReactJS**
 
+## Code example
+```
+const sum = (a, b) => a + b;
+console.log(sum(2, 2));
+```
 
 ## Education
 **Brest State Technical University**
